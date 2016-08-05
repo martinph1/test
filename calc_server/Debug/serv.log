@@ -1,0 +1,101 @@
+
+[04/08/2016 01:38:59]  Started listening
+
+[04/08/2016 01:39:03] Connected client with id: 6392 and queue name: /calc-client-6392
+
+[04/08/2016 01:39:03] Established connection through socket 5
+[04/08/2016 01:39:14] Client id: 5 asked to calculate 1.000000 + 1.000000
+[04/08/2016 01:39:14] 1.000000 + 1.000000 = 2.000000 is send through socket: 5
+
+[04/08/2016 01:39:21] Client-6392 asked to calculate 2.000000 + 7.000000 = ?
+
+[04/08/2016 01:39:21] 
+ 2.000000 + 7.000000 = 9.000000 is send to Client-6392
+
+[04/08/2016 01:43:49] The server is terminating
+
+[04/08/2016 02:02:36]  Started listening
+[04/08/2016 02:04:14] The server is terminating
+
+[04/08/2016 02:05:15]  Started listening
+[04/08/2016 02:11:45]  Started listening
+[04/08/2016 02:13:26] Connected client with id: 2756 and queue name: /calc-client-2756
+[04/08/2016 02:13:26] Established connection through socket 5
+[04/08/2016 02:13:36] Client id: 5 asked to calculate 1.000000 + 1.000000
+[04/08/2016 02:13:36] 1.000000 + 1.000000 = 2.000000 is send through socket: 5
+[04/08/2016 02:14:32] Client-2756 asked to calculate 2.000000 + 8.000000 = ?
+[04/08/2016 02:14:32] 2.000000 + 8.000000 = 10.000000 is send to Client-2756
+[04/08/2016 02:16:29] Connected client with id: 2803 and queue name: /calc-client-2803
+[04/08/2016 02:16:30] Established connection through socket 6
+[04/08/2016 02:25:26] The server is terminating
+
+[04/08/2016 02:25:57]  Started listening
+[04/08/2016 02:26:00] The server is terminating
+
+[04/08/2016 02:26:15]  Started listening
+[04/08/2016 02:30:32] Connected client with id: 3087 and queue name: /calc-client-3087
+[04/08/2016 02:30:32] Established connection through socket 5
+[04/08/2016 02:32:01] The server is terminating
+
+[04/08/2016 02:37:57]  Started listening
+[04/08/2016 02:48:33] Connected client with id: 3614 and queue name: /calc-client-3614
+[04/08/2016 02:48:33] Established connection through socket 5
+[04/08/2016 02:50:05] Client id: 5 asked to calculate 1.000000 + 1.000000
+[04/08/2016 02:50:05] 1.000000 + 1.000000 = 2.000000 is send through socket: 5
+[04/08/2016 02:50:24] Client-3614 asked to calculate 2.000000 - 7.000000 = ?
+[04/08/2016 02:50:24] 2.000000 - 7.000000 = -5.000000 is send to Client-3614
+[04/08/2016 02:50:49] Connected client with id: 3632 and queue name: /calc-client-3632
+[04/08/2016 02:50:50] Established connection through socket 6
+[04/08/2016 02:54:08] Client id: 6 asked to calculate 1.000000 + 1.000000
+[04/08/2016 02:54:09] 1.000000 + 1.000000 = 2.000000 is send through socket: 6
+[04/08/2016 02:54:27] Client-3632 asked to calculate 2.000000 * 4.000000 = ?
+[04/08/2016 02:54:28] 2.000000 * 4.000000 = 8.000000 is send to Client-3632
+[04/08/2016 02:55:02] Client id: 6 asked to calculate 1.000000 + 1.000000
+[04/08/2016 02:55:03] 1.000000 + 1.000000 = 2.000000 is send through socket: 6
+[04/08/2016 02:55:12] Client-3632 asked to calculate 2.000000 - 7.000000 = ?
+[04/08/2016 02:55:13] 2.000000 - 7.000000 = -5.000000 is send to Client-3632
+[04/08/2016 02:55:32] Connected client with id: 3802 and queue name: /calc-client-3802
+[04/08/2016 02:55:34] Established connection through socket 8
+[04/08/2016 02:55:45] Connected client with id: 3807 and queue name: /calc-client-3807
+[04/08/2016 02:55:48] Established connection through socket 20
+[04/08/2016 02:56:13] Connected client with id: 3813 and queue name: /calc-client-3813
+[04/08/2016 02:56:15] Established connection through socket 25
+[04/08/2016 02:56:32] Connected client with id: 3817 and queue name: /calc-client-3817
+[04/08/2016 02:56:34] Established connection through socket 31
+[04/08/2016 02:56:45] Connected client with id: 3822 and queue name: /calc-client-3822
+[04/08/2016 02:56:47] Established connection through socket 36
+[04/08/2016 02:56:57] Client id: 31 asked to calculate 1.000000 + 1.000000
+[04/08/2016 02:56:59] 1.000000 + 1.000000 = 2.000000 is send through socket: 31
+[04/08/2016 02:57:10] Client-3817 asked to calculate 2.000000 - 7.000000 = ?
+[04/08/2016 02:57:12] 2.000000 - 7.000000 = -5.000000 is send to Client-3817
+[04/08/2016 02:57:25] Client-3817 asked to calculate 2.000000 1 0.000000 = ?
+[04/08/2016 02:57:27] 2.000000 1 0.000000 = 5.000000 is send to Client-3817
+[04/08/2016 02:57:40] Client with id:3817 has disconnected
+[04/08/2016 02:57:42] Connection through client socket: 31 is closed
+[04/08/2016 02:57:47] Client with id:3813 has disconnected
+[04/08/2016 02:57:49] Connection through client socket: 25 is closed
+[04/08/2016 02:57:51] Client with id:3807 has disconnected
+[04/08/2016 02:57:53] Connection through client socket: 20 is closed
+[04/08/2016 02:57:57] Client with id:3632 has disconnected
+[04/08/2016 02:57:58] Connection through client socket: 6 is closed
+[04/08/2016 02:58:04] Client with id:3802 has disconnected
+[04/08/2016 02:58:05] Connection through client socket: 8 is closed
+[04/08/2016 02:58:23] Client-3822 asked to calculate 2.000000 - 7.000000 = ?
+[04/08/2016 02:58:24] 2.000000 - 7.000000 = -5.000000 is send to Client-3822
+[04/08/2016 02:58:49] Client-3822 asked to calculate 2.000000 - 5.000000 = ?
+[04/08/2016 02:58:50] 2.000000 - 5.000000 = -3.000000 is send to Client-3822
+[04/08/2016 02:59:11] Client with id:3614 has disconnected
+[04/08/2016 02:59:12] Connection through client socket: 36 is closed
+[04/08/2016 02:59:26] Client with id:3614 has disconnected
+[04/08/2016 02:59:26] Connection through client socket: 5 is closed
+[04/08/2016 02:59:36] Connected client with id: 3959 and queue name: /calc-client-3959
+[04/08/2016 02:59:36] Established connection through socket 40
+[04/08/2016 02:59:55] Client with id:3959 has disconnected
+[04/08/2016 02:59:55] Connection through client socket: 40 is closed
+[04/08/2016 02:59:59] Connected client with id: 3966 and queue name: /calc-client-3966
+[04/08/2016 02:59:59] Established connection through socket 71
+[04/08/2016 03:00:21] Client with id:3966 has disconnected
+[04/08/2016 03:00:21] Connection through client socket: 71 is closed
+[04/08/2016 03:00:26] Connected client with id: 3970 and queue name: /calc-client-3970
+[04/08/2016 03:00:26] Established connection through socket 5
+[04/08/2016 03:00:31] The server is terminating
